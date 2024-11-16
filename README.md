@@ -1,12 +1,12 @@
-# Hola 👋, soy [Nombre del profesional]
+# Hola 👋, soy Rodrigo Espinoza
 
 Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales. Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales. Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
 
 **Ejemplo de resumen de Linkedin:**
 
-Soy un **[tu rol profesional, ejemplo: Desarrollador Full Stack | Especialista en Backend | Frontend Developer]** con experiencia en [tecnologías principales, ejemplo: React, Python, Node.js]. Me especializo en [tu enfoque principal, ejemplo: construir aplicaciones web escalables y soluciones innovadoras].
+Soy un Desarrollador Full Stack | Especialista en Backend | Frontend Developer con experiencia en Java, React, Python, Node.js. Me especializo en construir aplicaciones escalables y de alta performance.
 
-Actualmente, estoy buscando **nuevas oportunidades** donde pueda aportar mis habilidades y crecer profesionalmente.
+Contactáctame si tienes una buena idea que permita descubrir nuevas oportunidades o bien, si quieres contribuir al bien social por medio de la tecnología.
 
 ## 💻 **Tecnologías Clave**
 
