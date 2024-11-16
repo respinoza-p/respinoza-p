@@ -1,10 +1,9 @@
 # Hola 👋, soy Rodrigo Espinoza
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales. Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales. Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+💻 Ingeniero y Magíster en Informática con más de 18 años de experiencia liderando proyectos de software en diversos sectores. Actualmente me desempeño como Jefe de Desarrollo en una destacada empresa del sector financiero, donde gestiono equipos multidisciplinarios para crear soluciones tecnológicas eficientes y escalables, utilizando herramientas como Java, JavaScript, REST y Node.js.
 
-**Ejemplo de resumen de Linkedin:**
+🎯 Apasionado por el negocio de las ACH (Automated Clearing House) y los medios de pago, aporto una visión estratégica para optimizar procesos en estas áreas clave. Además, colaboro con la Fundación Crocretón (www.croqueton.cl) 🦮 , implementando soluciones tecnológicas innovadoras que fortalecen su misión social.
 
-Soy un Desarrollador Full Stack | Especialista en Backend | Frontend Developer con experiencia en Java, React, Python, Node.js. Me especializo en construir aplicaciones escalables y de alta performance.
 
 Contactáctame si tienes una buena idea que permita descubrir nuevas oportunidades o bien, si quieres contribuir al bien social por medio de la tecnología.
 
