@@ -35,6 +35,6 @@ Contactáctame si tienes una buena idea que permita descubrir nuevas oportunidad
 
 ## 📫 **Contacto**
 
-- 📧 [example@gmail.com](mailto:example@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/example)
+- 📧 [rodrigo@globaldev.cl](mailto:rodrigo@globaldev.cl)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/respinoza-p)
 - 🌍 [Portafolio](https://example.com)
